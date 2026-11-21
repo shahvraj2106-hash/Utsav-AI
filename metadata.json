@@ -1,0 +1,8 @@
+{
+  "name": "Utsav AI",
+  "description": "AI-powered event and wedding planner with Shubh, your personal planning assistant for timelines, vendors, RSVPs, budgets, and instant replanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
